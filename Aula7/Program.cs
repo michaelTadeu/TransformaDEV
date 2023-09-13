@@ -19,7 +19,6 @@ namespace ProgramaPrincipal
 
             //Array.Resize(ref numerosZero, numerosZero.Length + 1);
 
-
             //do
             //{
             //    Console.WriteLine("Digite um número inteiro positivo (ou negativo para a soma): ");
@@ -36,7 +35,6 @@ namespace ProgramaPrincipal
             //    //1° EXEC contador = 0; numero = 5; numeros[0] = 5
             //    //2° EXEC contador = 1; numero = 15; numeros[1] = 15
             //} while (true);
-
 
             while (true)
             {                
@@ -89,8 +87,6 @@ namespace ProgramaPrincipal
             //        numerosDigitados.Add(numeroDigitado);
             //    }
             //} while (numeroDigitado > 0);
-
-
 
             //Faça um programa que leia 5 números e informe a soma e a média dos números.
 

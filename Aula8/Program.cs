@@ -2,7 +2,6 @@
 
 namespace ProgramaPrincipal
 {
-
     class Program
     {
         static void Main(string[] args)
@@ -34,7 +33,6 @@ namespace ProgramaPrincipal
                     resultado += aluno.name + " está reprovado\n";
                 }
             }
-
             return resultado;
         }
     }
